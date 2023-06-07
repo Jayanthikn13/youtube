@@ -1,0 +1,22 @@
+.short img{
+    width: 172px;
+    height: 304px;
+    border-radius: 10%;
+}
+.shortsData{
+    display: flex;  
+}
+
+.short{
+    justify-content: space-around;
+    margin-right: 32px;
+}
+
+.short h3{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.short p{
+    margin: 0%;
+}

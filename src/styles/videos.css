@@ -1,0 +1,40 @@
+.videos img{
+    height: 202px;
+    /* width: 360px; */
+    width: 295px;
+    border-radius: 5px;
+}
+
+.videoData{
+    display: flex;
+    flex-wrap:wrap;
+   
+}
+.videoDetails{
+     width: 100%;
+}
+
+.video{
+    width: 25%;
+    margin:14px 0px ;
+}
+
+video h3{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+.video a,.video p{
+    color: #606060;
+    margin: 0px;
+}
+
+.videos:h1{
+    text-align: center;
+}
+
+.video a{
+    cursor: pointer;
+}
+
+
